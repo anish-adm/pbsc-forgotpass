@@ -1,0 +1,9 @@
+:local(.reset_pass_button) {
+   margin-top: 40px;
+   border: 5px dashed pink;
+   background-color: 'pink'
+ }
+ :local(.content) {
+   font-size: 15px;
+   text-align: center;
+ }
