@@ -67,7 +67,7 @@ class App extends Component {
     }
     return (
       <div className="App">
-      <h2>Forgot Password?</h2>
+      <h2>Forgot your Password?</h2>
         <p className="App-intro">
           Please enter the email address registered on your account.
         </p>
